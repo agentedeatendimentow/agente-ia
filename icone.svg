@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="480" height="480" role="img" aria-label="Agente IA">
+  <defs><linearGradient id="i" x1="14" y1="10" x2="104" y2="104" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8F4A"/><stop offset="1" stop-color="#FF4526"/></linearGradient>
+    <mask id="im" maskUnits="userSpaceOnUse" x="0" y="0" width="120" height="120"><rect width="120" height="120" fill="#fff"/><circle cx="98" cy="22" r="20" fill="#000"/></mask></defs>
+  <path mask="url(#im)" fill="url(#i)" d="M38 12h44c16.570 0 30 13.430 30 30v22c0 16.570-13.430 30-30 30H52.500L29.600 110.200c-2.900 2.050-6.800-.550-6.050-4.050L26.900 90.300C15.600 85.400 8 74.600 8 62V42c0-16.570 13.430-30 30-30z"/>
+  <path fill="#fff" d="M60 26c2.300 13.700 7.800 21.500 22 25.500C67.800 55.500 62.300 63.300 60 77c-2.300-13.700-7.800-21.500-22-25.500C52.200 47.500 57.700 39.700 60 26z"/>
+  <circle cx="98" cy="22" r="12.500" fill="#2FE6A0"/>
+</svg>
